@@ -10,5 +10,5 @@ Homepage: https://github.com/clearpathrobotics/clearpath-network
 
 Package: clearpath-network
 Architecture: all
-Depends: ${misc:Depends}
+Depends: wicd-curses, dnsmasq, ${misc:Depends}
 Description: Clearpath Robotics basic network setup.
