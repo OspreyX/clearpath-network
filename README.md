@@ -1,1 +1,1 @@
-Clearpath scripts for remote access to customer PCs.
+Package initializes basic network defaults for robot PC.

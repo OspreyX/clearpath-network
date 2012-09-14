@@ -1,5 +1,5 @@
-clearpath-remote-support (0.1) precise; urgency=low
+clearpath-network (0.1) precise; urgency=low
 
-  * Added Clearpath scripts for connecting to a customer PC.
+  * Dependency on dnsmasq and wicd-curses, and basic network configuration. 
 
- -- Alex Bencz <abencz@clearpathrobotics.com>  Mon, 27 Aug 2012 17:00:32 -0400
+ -- Mike Purvis (Launchpad) <mpurvis@clearpathrobotics.com>  Mon, 14 Sept 2012
